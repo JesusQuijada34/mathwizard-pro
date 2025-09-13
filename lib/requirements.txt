@@ -1,0 +1,4 @@
+# Dependencias del paquete
+sympy
+numpy
+PyQt5
